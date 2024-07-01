@@ -15,7 +15,7 @@ Transparent tracking and provenance of supply chain | Built using sign protocol 
 
 ## Contract Deployed on Base Sepolia Testnet
 
-- TraceXRegistry.sol - [](https://sepolia.basescab.org/address/)
+- TraceXRegistry.sol - [0x456A103F7B5b8A5401a99eF244029b8C67c2BE78](https://sepolia.basescab.org/address/0x456A103F7B5b8A5401a99eF244029b8C67c2BE78)
 
 ## System Architecture
 
